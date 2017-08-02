@@ -11,7 +11,7 @@ git clone git@github.com:foliejs/gitbook-tookit.git
 ```
 npm install -g gitbook-cli 
 ```
-* npm run doc·
+* npm run doc
 
 
 
